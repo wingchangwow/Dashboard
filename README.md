@@ -1,5 +1,5 @@
 # Dashboard
-A basic Dashboard/Landing page to showcase the use of Javascript APIs
+A basic Dashboard/Landing page to showcase the use of Javascript REST APIs
 
 **APIs used**
 - Unsplash to generate a random background image
